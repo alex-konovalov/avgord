@@ -15,3 +15,7 @@ gap> S:=SymmetricGroup(7);
 Sym( [ 1 .. 7 ] )
 gap> AvgOrd(S);
 31333/5040
+gap> S:=SymmetricGroup(8);
+Sym( [ 1 .. 8 ] )
+gap> AvgOrd(S);
+31333/5040
