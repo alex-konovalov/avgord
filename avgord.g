@@ -1,3 +1,4 @@
+# This function calculates an average order of an element of a group
 AvgOrd:=function ( G )
     local sum, g;
     sum := 0;
