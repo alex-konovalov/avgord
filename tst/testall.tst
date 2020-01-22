@@ -18,4 +18,4 @@ gap> AvgOrd(S);
 gap> S:=SymmetricGroup(8);
 Sym( [ 1 .. 8 ] )
 gap> AvgOrd(S);
-31333/5040
+33247/4480
